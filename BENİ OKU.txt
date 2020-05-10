@@ -1,0 +1,7 @@
+Hocam veri tabanı yolu C:\sqlitedatabase olarak belirledim."OgrKulup" 
+adlı klasörün içinde yer alan "sqlitedatabase" dosyasını C sürücüsüne atarsanız sorunsuz çalışacaktır. 
+
+GİRİŞ BİLGİLERİ 
+
+Kullanıcı Adı: admin
+Şifre: 1234
